@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Photography Portfolio
 
 A fast, minimal portfolio for a working photographer: weddings, portraits, landscapes, street and commercial work in one site. Built with **Next.js 16**, **React 19**, **TypeScript** and **Tailwind CSS 4**.
@@ -91,3 +92,7 @@ src/
 ## Note on Tailwind + Turbopack
 
 This project uses `@tailwindcss/turbopack`, which must be registered in `next.config.ts` (`turbopack.rules`). It already is. If you ever remove that block, the site will build but render completely unstyled.
+=======
+# Photography-portfolio
+Sanju Rangodage photography site
+>>>>>>> d02f6d923dc9a2de94de06271b4b35fc43244b6e
